@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki_core_game=self.webpackChunkwiki_core_game||[]).push([[7021],{3769:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
